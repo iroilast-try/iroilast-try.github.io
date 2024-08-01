@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: For the Love of Humanity
+title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -33,7 +33,6 @@ github_username:  jekyll
 theme: 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
